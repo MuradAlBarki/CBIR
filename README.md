@@ -1,4 +1,4 @@
-echo "# From Image Edges to Deep Features: A Modern Approach to Content-Based Search in Big Data"
+# From Image Edges to Deep Features: A Modern Approach to Content-Based Search in Big Data
 
 ## Description
 This project demonstrates two content-based image retrieval (CBIR) methods on the Caltech 101 dataset:
